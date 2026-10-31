@@ -13,3 +13,4 @@ fix_buttons.py
 # Power BI Auto-recover / Lock files
 *.pbix.lck
 *.pbit.lck
+
