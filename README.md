@@ -168,3 +168,4 @@ Double-click `powerbi/OTT_Content_Analysis_Dashboard_Clean.pbix` in Power BI Des
 *Final Year (Semester 7) Individual Data Science Project*  
 *Bachelor of Technology in Computer Science & Engineering*  
 *Repository:* [Satvik-Parihar/Binge-Metrics](https://github.com/Satvik-Parihar/Binge-Metrics)
+
