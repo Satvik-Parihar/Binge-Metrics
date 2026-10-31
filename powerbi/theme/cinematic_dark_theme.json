@@ -1,0 +1,60 @@
+{
+  "name": "Cinematic Dark Modern",
+  "dataColors": [
+    "#E50914",
+    "#00A8E1",
+    "#113CCF",
+    "#C9A227",
+    "#E06D53",
+    "#48C9B0",
+    "#9B59B6",
+    "#3498DB"
+  ],
+  "background": "#141414",
+  "foreground": "#1F1F1F",
+  "tableAccent": "#C9A227",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#1F1F1F" } },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#2A2A2A" } },
+            "radius": 4
+          }
+        ],
+        "title": [
+          {
+            "show": true,
+            "fontColor": { "solid": { "color": "#FFFFFF" } },
+            "fontSize": 12,
+            "fontFamily": "Segoe UI Semibold"
+          }
+        ],
+        "labels": [
+          {
+            "fontColor": { "solid": { "color": "#EAEAEA" } },
+            "fontFamily": "Segoe UI"
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#141414" } },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}
+

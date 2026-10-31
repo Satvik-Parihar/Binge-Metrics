@@ -1,0 +1,62 @@
+{
+    "dataset_snapshot_limits": {
+        "Netflix": "Snapshot up to Sep 2021",
+        "Amazon Prime": "Snapshot up to Oct 2021 (98% missing date_added, 93% missing country)",
+        "Disney+": "Snapshot up to Nov 2021 (Disney+ US/Global library, not Hotstar)"
+    },
+    "overall": {
+        "total_titles_in_fact": 19925,
+        "distinct_cross_platform_title_keys": 19684,
+        "total_movies": 14997,
+        "total_tv_shows": 4928,
+        "pct_movies": 75.27,
+        "pct_tv_shows": 24.73,
+        "platforms_represented": 3
+    },
+    "platforms": {
+        "Netflix": {
+            "total_titles": 8807,
+            "movies": 6131,
+            "tv_shows": 2676,
+            "pct_movies": 69.62,
+            "pct_tv_shows": 30.38,
+            "median_movie_runtime_min": 98.0,
+            "avg_tv_seasons": 1.76,
+            "missing_country_pct": 9.44,
+            "missing_date_added_pct": 0.11
+        },
+        "Amazon Prime": {
+            "total_titles": 9668,
+            "movies": 7814,
+            "tv_shows": 1854,
+            "pct_movies": 80.82,
+            "pct_tv_shows": 19.18,
+            "median_movie_runtime_min": 91.0,
+            "avg_tv_seasons": 1.72,
+            "missing_country_pct": 93.05,
+            "missing_date_added_pct": 98.4
+        },
+        "Disney+": {
+            "total_titles": 1450,
+            "movies": 1052,
+            "tv_shows": 398,
+            "pct_movies": 72.55,
+            "pct_tv_shows": 27.45,
+            "median_movie_runtime_min": 86.0,
+            "avg_tv_seasons": 2.12,
+            "missing_country_pct": 15.1,
+            "missing_date_added_pct": 0.21
+        }
+    },
+    "runtime_statistics": {},
+    "overlap_statistics": {
+        "titles_on_multiple_platforms": 226,
+        "shared_netflix_and_prime": 194,
+        "shared_netflix_and_disney": 26,
+        "shared_prime_and_disney": 6,
+        "shared_all_three": 0,
+        "unique_to_netflix": 8581,
+        "unique_to_amazon_prime": 9459,
+        "unique_to_disney_plus": 1418
+    }
+}

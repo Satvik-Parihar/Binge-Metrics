@@ -1,0 +1,4 @@
+platform_id,platform_name,catalogue_code,notes
+1,Netflix,NFLX,Snapshot up to Sep 2021
+2,Amazon Prime,AMZN,Snapshot up to Oct 2021; date_added and country largely unpopulated
+3,Disney+,DSNY,Snapshot up to Nov 2021; US/Global catalogue (not Hotstar)

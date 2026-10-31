@@ -1,0 +1,13 @@
+2026-10-29 23:28:26,642 - INFO - === Starting OTT Data Cleaning & Transformation Pipeline ===
+2026-10-29 23:28:26,729 - INFO - 
+Processing Netflix: 8807 raw rows loaded.
+2026-10-29 23:28:26,736 - INFO -   [REPAIR] Netflix show_id s5542 ('Louis C.K. 2017'): moved '74 min' to duration, set rating to NULL.
+2026-10-29 23:28:26,736 - INFO -   [REPAIR] Netflix show_id s5795 ('Louis C.K.: Hilarious'): moved '84 min' to duration, set rating to NULL.
+2026-10-29 23:28:26,736 - INFO -   [REPAIR] Netflix show_id s5814 ('Louis C.K.: Live at the Comedy Store'): moved '66 min' to duration, set rating to NULL.
+2026-10-29 23:28:27,486 - INFO - 
+Processing Amazon Prime: 9668 raw rows loaded.
+2026-10-29 23:28:28,143 - INFO - 
+Processing Disney+: 1450 raw rows loaded.
+2026-10-29 23:28:28,277 - INFO - 
+Computing Cross-Platform Overlap table...
+2026-10-29 23:28:33,275 - INFO - === Pipeline Complete! Processed files written to data/processed/ ===

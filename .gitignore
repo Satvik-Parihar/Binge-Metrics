@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pytest_cache/
+.pytest_cache/
+
+# Temporary / Unpacked
+extracted_temp/
+pbix_template/
+fix_buttons.py
+
+# Power BI Auto-recover / Lock files
+*.pbix.lck
+*.pbit.lck

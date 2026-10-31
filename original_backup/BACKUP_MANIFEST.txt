@@ -1,0 +1,14 @@
+My OTT Dashboard.pbix | 5580942 bytes | SHA256: c0e903a3e0f74a03e6315edeb4f49b69a03a971f7782fc9d2af80dbcd2b203c6
+README.md | 1905 bytes | SHA256: 3fc644a2cf89a39e2347fa175c1a1f6b1b91fa1db4a8c4d458643e4a84d2ec72
+Datasets\amazon_prime_titles.csv | 3972416 bytes | SHA256: ba54b448affd40f0813e470365b6860e647aead3a51e9196b93205eb0f031e8f
+Datasets\disney_plus_titles.csv | 383571 bytes | SHA256: d39ee14064140939f14ae5216fc79dd44ebc423313d19f8430452ff6b2bb137c
+Datasets\netflix_titles.csv | 3399671 bytes | SHA256: df1f4ad2027a5a14c3a33932ef0d4054565ff88adf92b7f263601b70fdc6f3f3
+Pics\Amazon Prime Dashboard.PNG | 79147 bytes | SHA256: 37974a736da3cda9c58f2df96f7b5338e5415f30401d649ff0dbf28a1baedc72
+Pics\Amazon Prime.png | 1680 bytes | SHA256: e7956d1c205139289764474537d9489830ff18580bc1362d6d90ec8ecd8ba3a0
+Pics\Disney Dashboard.PNG | 78120 bytes | SHA256: e4a3778776516979cf3ef209b405ee46a02fcd95a671e5ac36b32ed93e9f3475
+Pics\Netflix Dashboard.PNG | 79082 bytes | SHA256: df8f83921ea2cec53a8d524e5468f24aa510dd577342011066bdcefc4aaf022f
+Pics\film1.png | 13303 bytes | SHA256: 460a3fa868654c8928f38c64137f15dd3eb3ab03805874b8b30e5e61a8c69f4d
+Pics\hotstar.png | 122292 bytes | SHA256: cb390a125983bd3585ced7ce5cf5d3e980ab8053925fb19700cb10d6664360fc
+Pics\netflix.png | 100664 bytes | SHA256: 5ce45a62c8da4be065399b39ebe1cecd0ee758befa05d0cab9de5f93c010c43f
+Pics\prime.png | 173720 bytes | SHA256: 9fac389fe69bf64786e97e588ad3fc2c4f636f2e94c3e7f048b931e00de42c93
+Pics\tv1.png | 10003 bytes | SHA256: 3be86647cebd96e199dfebdda2c34f3b9fe932437f9957ba4da41db4a8a9f652

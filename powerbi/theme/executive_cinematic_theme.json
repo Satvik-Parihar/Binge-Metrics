@@ -1,0 +1,84 @@
+{
+  "name": "Cinematic Charcoal Executive",
+  "dataColors": [
+    "#E50914",
+    "#00A8E1",
+    "#113CCF",
+    "#C9A227",
+    "#E06D53",
+    "#48C9B0",
+    "#9B59B6",
+    "#3498DB",
+    "#F39C12",
+    "#1ABC9C"
+  ],
+  "background": "#141619",
+  "foreground": "#1F2329",
+  "tableAccent": "#C9A227",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#1F2329" } },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#2E3440" } },
+            "radius": 8
+          }
+        ],
+        "dropShadow": [
+          {
+            "show": false
+          }
+        ],
+        "title": [
+          {
+            "show": true,
+            "fontColor": { "solid": { "color": "#FFFFFF" } },
+            "fontSize": 12,
+            "fontFamily": "Segoe UI Semibold"
+          }
+        ],
+        "labels": [
+          {
+            "fontColor": { "solid": { "color": "#E5E9F0" } },
+            "fontFamily": "Segoe UI"
+          }
+        ],
+        "categoryAxis": [
+          {
+            "labelColor": { "solid": { "color": "#D8DEE9" } }
+          }
+        ],
+        "valueAxis": [
+          {
+            "labelColor": { "solid": { "color": "#D8DEE9" } },
+            "gridlineColor": { "solid": { "color": "#2E3440" } }
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#141619" } },
+            "transparency": 0
+          }
+        ],
+        "outspace": [
+          {
+            "color": { "solid": { "color": "#141619" } },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}
+
